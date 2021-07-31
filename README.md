@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kelvinZoe
 - 👀 I’m a full stack developer
-- 🌱 I’m currently React 
+- 🌱 I’m currently learning MERN 
 - 💞️ I’m looking to collaborate on any comprehension algorithms
-- 📫 You can reach me at zoeinventions@gmail.com
+- 📫 You can reach me at kelvinarthur1770@gmail.com
 
 <!---
 kelvinZoe/kelvinZoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
