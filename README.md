@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kelvinZoe
 - 👀 I’m a full stack developer
-- 🌱 I’m currently learning MERN 
+- 🌱 I’m currently learning MEAN stack
 - 📫 You can reach me at kelvinarthur1770@gmail.com
 
 <!---
